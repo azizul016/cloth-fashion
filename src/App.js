@@ -1,3 +1,4 @@
+/* eslint-disable react/react-in-jsx-scope */
 import './App.css';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import MenuBar from './component/MenuBar/MenuBar';

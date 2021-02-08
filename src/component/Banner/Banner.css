@@ -8,7 +8,7 @@
   padding: 26px;
   left: 65px;
   height: 100vh;
-  background-image: url("../image/logo/green.png");
+  background-image: url('../image/logo/green.png');
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom;
@@ -34,17 +34,17 @@
   );
   border: 1px solid
     linear-gradient(0deg, rgba(164, 188, 70, 1) 0%, rgba(133, 160, 25, 1) 100%);
-  
+
   display: flex;
   align-items: center;
   width: 25%;
   border-radius: 8px;
-  color: #fff!important;
+  color: #fff !important;
   justify-content: center;
   padding: 7px 0;
 }
-.common__buyNow__btn .btn{
-  color: #fff!important;
+.common__buyNow__btn .btn {
+  color: #fff !important;
 }
 .common__buyNow__btn:focus {
   box-shadow: none !important;

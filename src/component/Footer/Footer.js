@@ -16,7 +16,12 @@ function Footer() {
 					))}
 				</Col>
 				<Col md={7} className="order-1 order-sm-12 py-2">
-					<img style={{padding: '25px'}} src={footerimg} className="img-fluid" alt=""/>
+					<img
+						style={{ padding: '25px' }}
+						src={footerimg}
+						className="img-fluid"
+						alt=""
+					/>
 				</Col>
 			</Row>
 		</Container>
