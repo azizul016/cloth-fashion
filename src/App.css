@@ -1,0 +1,13 @@
+section {
+  /* overflow: hidden!important; */
+}
+
+@media (max-width: 576px) {
+  .banner {
+    height: 140vh !important;
+  }
+  .common__buyNow__btn {
+    /* width: 28%!important; */
+    /* padding: 0, 30px !important; */
+  }
+}

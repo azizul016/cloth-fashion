@@ -1,0 +1,8 @@
+.navRight a {
+  color: #3c3c3c !important;
+  padding: 0 20px;
+  font-weight: 500;
+}
+.navRight a:hover {
+  text-decoration: none !important;
+}

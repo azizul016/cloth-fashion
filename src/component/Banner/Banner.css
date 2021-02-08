@@ -1,0 +1,51 @@
+.banner {
+  position: relative;
+  height: 90vh;
+}
+.bannerImage img {
+  position: absolute;
+  top: -165px;
+  padding: 26px;
+  left: 65px;
+  height: 100vh;
+  background-image: url("../image/logo/green.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+}
+.banner__heading__top,
+.banner__heading__bottom {
+  color: #fabe4c;
+  text-transform: uppercase;
+  font-size: 55px;
+}
+.banner__heading__bottom {
+  color: #000000;
+}
+.banner__description {
+  color: #3e3e3e;
+}
+.common__buyNow__btn {
+  background: rgb(164, 188, 70);
+  background: linear-gradient(
+    0deg,
+    rgba(164, 188, 70, 1) 0%,
+    rgba(133, 160, 25, 1) 100%
+  );
+  border: 1px solid
+    linear-gradient(0deg, rgba(164, 188, 70, 1) 0%, rgba(133, 160, 25, 1) 100%);
+  
+  display: flex;
+  align-items: center;
+  width: 25%;
+  border-radius: 8px;
+  color: #fff!important;
+  justify-content: center;
+  padding: 7px 0;
+}
+.common__buyNow__btn .btn{
+  color: #fff!important;
+}
+.common__buyNow__btn:focus {
+  box-shadow: none !important;
+}

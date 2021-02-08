@@ -1,0 +1,33 @@
+.card-img,
+.card-img-top {
+  padding: 28px !important;
+}
+.cardImg {
+  background: #f1f1f1;
+  border-radius: 15px;
+}
+.card {
+  border: none !important;
+  background: #cfcdcd;
+  padding: 20px;
+  box-shadow: 0 0 15px #e2e2e2;
+}
+.card-footer {
+  border-top: none !important;
+  background-color: none !important;
+}
+.priceColor {
+  color: #fabe4c;
+}
+.common__jacket__heading {
+  color: #363958;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.card__title {
+  font-weight: 700;
+  color: #363958;
+}
+.card__body {
+  color: #3e3e3e;
+}
